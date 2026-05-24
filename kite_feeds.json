@@ -3708,6 +3708,20 @@
       "https://www.velonews.com/feed/"
     ]
   },
+  "Cyprus": {
+    "category_type": "topic",
+    "source_language": "en",
+    "display_names": {
+      "en": "Cyprus"
+    },
+    "feeds": [
+      "https://alithia.com.cy/feed/",
+      "https://cyprus-mail.com/feed",
+      "https://geopolitico.gr/feed/",
+      "https://www.philenews.com/feed/",
+      "https://www.sigmalive.com/rss"
+    ]
+  },
   "Czech Republic": {
     "category_type": "topic",
     "source_language": "cs",
